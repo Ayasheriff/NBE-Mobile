@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165931277701",
+    "project_id": "nbe-project-c0a8c",
+    "storage_bucket": "nbe-project-c0a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165931277701:android:0b3739defda54c73dcf8ec",
+        "android_client_info": {
+          "package_name": "com.awesomeproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165931277701-69v1hr6n7u2tj72bl40ebg67rk4qosmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADPmadM6V2x__g71_gxmhDsT1zCdq2P1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165931277701-69v1hr6n7u2tj72bl40ebg67rk4qosmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

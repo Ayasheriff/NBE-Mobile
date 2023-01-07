@@ -1,0 +1,9 @@
+{
+  "name": "AwesomeProject2",
+  "displayName": "AwesomeProject2"
+}
+// {
+//   "expo": {
+//     "plugins": ["@react-native-firebase/app", "@react-native-firebase/auth"]
+//   }
+// }
